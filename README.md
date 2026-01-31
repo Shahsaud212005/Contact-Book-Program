@@ -1,0 +1,3 @@
+Just a simple contact book program that i created as a practice project.
+it's a program that acts as a contact book, with features to add, remove, update, view, and search. 
+this program is just a terminal based program, it doesn't have any gui interface, niether does it actually save the contacts in a specific file on the computer, means the memory is temporary, when the program closes, the data of contacts is gone.
